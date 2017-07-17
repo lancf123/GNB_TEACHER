@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.vscode/
+node_modules/
+#distT/static/
+distT/unpackage/release/
+distT/.project
+*.log
+distT/unpackage/.confirmed_dependencies
